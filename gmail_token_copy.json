@@ -1,0 +1,26 @@
+{
+    "access_token": "ya29.a0AfB_byA-TBnAqGG5etQpeYyCQiP8av_tbGCcCHwlO4HTlsK7o-tWarldaivZRfYC6vW5ch7gGcKhBIndjdkhcLtRbJetP9qFS1ygo95kkjysXMo5RgRaYHRV3PsXcdeNJHP9koDt5VVdVySeS9PwMWvMq9g3dErELRsUwgaCgYKAS0SARMSFQHGX2MiVmU1IdxWxC9BpBo33hFsDw0173",
+    "client_id": "650672653115-mtuo5el0d1pub5g3gn74o8l3hs3ig0us.apps.googleusercontent.com",
+    "client_secret": "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",
+    "refresh_token": "1//09qMVqrhtT1KlCgYIARAAGAkSNwF-L9Ireh4xi9ENzPEXLtoXvVZ-IQMQO4mMrDd2t9maljB9k34LlERREXdXTye65MRKZwPmQCA",
+    "token_expiry": "2023-12-22T15:00:53Z",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "user_agent": null,
+    "revoke_uri": "https://oauth2.googleapis.com/revoke",
+    "id_token": null,
+    "id_token_jwt": null,
+    "token_response": {
+        "access_token": "ya29.a0AfB_byA-TBnAqGG5etQpeYyCQiP8av_tbGCcCHwlO4HTlsK7o-tWarldaivZRfYC6vW5ch7gGcKhBIndjdkhcLtRbJetP9qFS1ygo95kkjysXMo5RgRaYHRV3PsXcdeNJHP9koDt5VVdVySeS9PwMWvMq9g3dErELRsUwgaCgYKAS0SARMSFQHGX2MiVmU1IdxWxC9BpBo33hFsDw0173",
+        "expires_in": 3599,
+        "scope": "https://www.googleapis.com/auth/gmail.modify https://www.googleapis.com/auth/gmail.settings.basic",
+        "token_type": "Bearer"
+    },
+    "scopes": [
+        "https://www.googleapis.com/auth/gmail.modify",
+        "https://www.googleapis.com/auth/gmail.settings.basic"
+    ],
+    "token_info_uri": "https://oauth2.googleapis.com/tokeninfo",
+    "invalid": false,
+    "_class": "OAuth2Credentials",
+    "_module": "oauth2client.client"
+}
